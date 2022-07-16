@@ -1,0 +1,7 @@
+export const GET_LIST_DATA = "GET_LIST_DATA";
+export const GET_LIST_DATA_SUCCESS = "GET_LIST_DATA_SUCCESS";
+export const DELETE_DATA = "DELETE_DATA";
+export const ADD_USER = "ADD_USER";
+export const ADD_USER_SUCCESS = "ADD_USER_SUCCESS";
+export const EDIT_USER = "EDIT_USER";
+export const EDIT_USER_SUCCESS = "EDIT_USER_SUCCESS";

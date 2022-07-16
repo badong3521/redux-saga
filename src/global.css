@@ -1,0 +1,17 @@
+.total {
+  width: 500px;
+  margin: auto;
+}
+
+.item-email {
+  display: flex;
+  width: 500px;
+  margin: auto;
+}
+.item-email li {
+  flex: 1;
+}
+
+.active {
+  color: red;
+}
